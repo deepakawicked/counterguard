@@ -4,6 +4,8 @@
 
 Counterguard is an iOS app that helps martial artists (starting with Taekwondo) understand their own sparring footage — not just what happened, but why. It pairs on-device pose tracking with a place to actually reflect on what you're seeing, instead of leaving your training videos to rot in your camera roll.
 
+[![Counterguard demo](https://img.youtube.com/vi/0lrV_NnlVG4/maxresdefault.jpg)](https://youtube.com/shorts/0lrV_NnlVG4)
+
 ## Why
 
 Coaches cost thousands and demand a time commitment most athletes can't afford. Existing sports AI tools (HomeCourt, SwingVision, etc.) spit out skeletal angles and counts, but nothing that helps you decipher your own positioning, timing, or guard mistakes. Counterguard fills that gap.
